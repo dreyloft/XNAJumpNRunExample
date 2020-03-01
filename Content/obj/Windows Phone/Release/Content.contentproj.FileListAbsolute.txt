@@ -1,0 +1,2 @@
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\Content\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\Content\obj\Windows Phone\Release\ResolveAssemblyReference.cache

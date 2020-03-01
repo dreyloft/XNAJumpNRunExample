@@ -1,0 +1,5 @@
+C:\Users\Droggelbecher\Desktop\GSMSample_4_0_PHONE\Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Droggelbecher\Desktop\Game\GSMSample_4_0_PHONE\Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GSMSample_4_0_PHONE\Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache

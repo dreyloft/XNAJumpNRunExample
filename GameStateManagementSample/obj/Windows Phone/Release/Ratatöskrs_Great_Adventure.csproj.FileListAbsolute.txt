@@ -1,0 +1,171 @@
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\background.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\blank.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\gradient.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Layer0_0.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Layer0_1.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Layer0_2.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Layer1_0.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Layer1_1.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Layer1_2.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Layer2_0.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Layer2_1.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Layer2_2.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Menu.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\controls.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\ctrl.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BetaEnd0.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Overlays\you_died.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Overlays\you_lose.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Overlays\you_win.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\Arm.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\ButtonNormal.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\ButtonPressed.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\Nut.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterA\Die.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterA\Idle.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterA\Run.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterB\Die.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterB\Idle.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterB\Run.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterC\Die.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterC\Idle.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterC\Run.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterD\Die.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterD\Idle.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterD\Run.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\Player\Celebrate.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\Player\Die.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\Player\Idle.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\Player\Jump.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\Player\Run.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\Power.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\Stone.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BlockA0.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BlockA1.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BlockA2.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BlockA3.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BlockA4.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BlockA5.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BlockA6.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BlockB0.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BlockB1.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\Complete.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\Exit.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\Exit2.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\Platform.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Fonts\Hud.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sounds\Door.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sounds\Nut.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sounds\PlayerKilled.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sounds\Win.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sounds\Killed.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sounds\Jump.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sounds\Music.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sounds\Powerup.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Sounds\Music.wma
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Levels\0.txt
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Levels\1.txt
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Levels\2.txt
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Levels\3.txt
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Levels\4.txt
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Levels\5.txt
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Levels\6.txt
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Levels\7.txt
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\GameStateManagementSample.dll
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\GameStateManagementSample.pdb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\obj\Windows Phone\Release\GameStateManagementSample.dll
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\obj\Windows Phone\Release\GameStateManagementSample.pdb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\AppManifest.xaml
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\obj\Windows Phone\Release\WMAppManifest.xml.g
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\obj\Windows Phone\Release\WMAppManifest.xml
+bin\Windows Phone\Release\
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\GameStateManagementSample.xap
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\obj\Windows Phone\Release\XapCacheFile.xml
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure - Kopie\GameStateManagementSample\bin\Windows Phone\Release\Content\Fonts\menufont.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\background.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\blank.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\gradient.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Layer0_0.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Layer0_1.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Layer0_2.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Layer1_0.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Layer1_1.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Layer1_2.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Layer2_0.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Layer2_1.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Layer2_2.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Menu.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\controls.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\ctrl.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BetaEnd0.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Overlays\you_died.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Overlays\you_lose.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Overlays\you_win.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\Arm.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\ButtonNormal.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\ButtonPressed.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\Nut.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterA\Die.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterA\Idle.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterA\Run.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterB\Die.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterB\Idle.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterB\Run.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterC\Die.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterC\Idle.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterC\Run.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterD\Die.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterD\Idle.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterD\Run.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\Player\Celebrate.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\Player\Die.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\Player\Idle.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\Player\Jump.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\Player\Run.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\Power.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\Stone.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BlockA0.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BlockA1.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BlockA2.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BlockA3.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BlockA4.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BlockA5.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BlockA6.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BlockB0.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BlockB1.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\Complete.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\Exit.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\Exit2.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\Platform.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Fonts\menufont.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Fonts\Hud.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sounds\Door.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sounds\Nut.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sounds\PlayerKilled.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sounds\Win.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sounds\Killed.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sounds\Jump.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sounds\Music.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sounds\Powerup.xnb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sounds\Music.wma
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Levels\0.txt
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Levels\1.txt
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Levels\2.txt
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Levels\3.txt
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Levels\4.txt
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Levels\5.txt
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Levels\6.txt
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Levels\7.txt
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\AppManifest.xaml
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\obj\Windows Phone\Release\WMAppManifest.xml.g
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\obj\Windows Phone\Release\WMAppManifest.xml
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\obj\Windows Phone\Release\XapCacheFile.xml
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Ratatöskrs_Great_Adventure.dll
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Ratatöskrs_Great_Adventure.pdb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\obj\Windows Phone\Release\Ratatöskrs_Great_Adventure.dll
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\obj\Windows Phone\Release\Ratatöskrs_Great_Adventure.pdb
+C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Ratatöskrs_Great_Adventure.xap

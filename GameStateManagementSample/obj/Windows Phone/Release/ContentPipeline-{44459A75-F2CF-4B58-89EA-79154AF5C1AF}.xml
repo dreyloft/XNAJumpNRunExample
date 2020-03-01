@@ -1,0 +1,633 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\background.xnb</Output>
+      <Time>2012-02-21T17:44:34.5578863+01:00</Time>
+    </Item>
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\blank.xnb</Output>
+      <Time>2010-09-15T14:43:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gradient.png</Source>
+      <Name>gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\gradient.xnb</Output>
+      <Time>2010-09-15T14:43:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_0.png</Source>
+      <Name>Backgrounds\Layer0_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Layer0_0.xnb</Output>
+      <Time>2012-02-21T12:53:16.4881978+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_1.png</Source>
+      <Name>Backgrounds\Layer0_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Layer0_1.xnb</Output>
+      <Time>2012-02-21T12:53:16.5752028+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_2.png</Source>
+      <Name>Backgrounds\Layer0_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Layer0_2.xnb</Output>
+      <Time>2012-02-21T12:53:16.6192053+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer1_0.png</Source>
+      <Name>Backgrounds\Layer1_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Layer1_0.xnb</Output>
+      <Time>2012-02-21T12:53:16.6492071+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer1_1.png</Source>
+      <Name>Backgrounds\Layer1_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Layer1_1.xnb</Output>
+      <Time>2012-02-21T12:53:16.6642079+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer1_2.png</Source>
+      <Name>Backgrounds\Layer1_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Layer1_2.xnb</Output>
+      <Time>2012-02-21T12:53:16.6732084+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer2_0.png</Source>
+      <Name>Backgrounds\Layer2_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Layer2_0.xnb</Output>
+      <Time>2012-02-21T12:53:16.6822089+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer2_1.png</Source>
+      <Name>Backgrounds\Layer2_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Layer2_1.xnb</Output>
+      <Time>2012-02-21T12:53:16.6912095+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer2_2.png</Source>
+      <Name>Backgrounds\Layer2_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Layer2_2.xnb</Output>
+      <Time>2012-02-21T12:53:16.70121+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Menu.png</Source>
+      <Name>Backgrounds\Menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Backgrounds\Menu.xnb</Output>
+      <Time>2012-02-21T12:53:16.7102105+01:00</Time>
+    </Item>
+    <Item>
+      <Source>controls.png</Source>
+      <Name>controls</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\controls.xnb</Output>
+      <Time>2012-02-22T17:07:33.4000922+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ctrl.png</Source>
+      <Name>ctrl</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\ctrl.xnb</Output>
+      <Time>2012-03-06T12:55:39.9309288+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BetaEnd0.png</Source>
+      <Name>Tiles\BetaEnd0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BetaEnd0.xnb</Output>
+      <Time>2012-03-08T16:44:44.1206987+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Overlays\you_died.png</Source>
+      <Name>Overlays\you_died</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Overlays\you_died.xnb</Output>
+      <Time>2012-02-21T12:53:34.5782325+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Overlays\you_lose.png</Source>
+      <Name>Overlays\you_lose</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Overlays\you_lose.xnb</Output>
+      <Time>2012-02-21T12:53:34.6532368+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Overlays\you_win.png</Source>
+      <Name>Overlays\you_win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Overlays\you_win.xnb</Output>
+      <Time>2012-02-21T12:53:34.7702435+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Arm.png</Source>
+      <Name>Sprites\Arm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\Arm.xnb</Output>
+      <Time>2012-02-21T12:53:35.6022911+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ButtonNormal.png</Source>
+      <Name>Sprites\ButtonNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\ButtonNormal.xnb</Output>
+      <Time>2012-02-21T12:53:35.7763011+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ButtonPressed.png</Source>
+      <Name>Sprites\ButtonPressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\ButtonPressed.xnb</Output>
+      <Time>2012-02-21T12:53:35.8653062+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Nut.png</Source>
+      <Name>Sprites\Nut</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\Nut.xnb</Output>
+      <Time>2012-03-02T14:06:09.7234692+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterA\Die.png</Source>
+      <Name>Sprites\MonsterA\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterA\Die.xnb</Output>
+      <Time>2012-02-21T12:53:36.1883246+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterA\Idle.png</Source>
+      <Name>Sprites\MonsterA\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterA\Idle.xnb</Output>
+      <Time>2012-02-21T12:53:36.2443278+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterA\Run.png</Source>
+      <Name>Sprites\MonsterA\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterA\Run.xnb</Output>
+      <Time>2012-02-21T12:53:36.3113317+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterB\Die.png</Source>
+      <Name>Sprites\MonsterB\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterB\Die.xnb</Output>
+      <Time>2012-02-21T12:53:36.3673349+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterB\Idle.png</Source>
+      <Name>Sprites\MonsterB\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterB\Idle.xnb</Output>
+      <Time>2012-02-21T12:53:36.4163377+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterB\Run.png</Source>
+      <Name>Sprites\MonsterB\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterB\Run.xnb</Output>
+      <Time>2012-02-21T12:53:36.4643404+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterC\Die.png</Source>
+      <Name>Sprites\MonsterC\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterC\Die.xnb</Output>
+      <Time>2012-02-21T12:53:36.5183435+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterC\Idle.png</Source>
+      <Name>Sprites\MonsterC\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterC\Idle.xnb</Output>
+      <Time>2012-02-21T12:53:36.5573457+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterC\Run.png</Source>
+      <Name>Sprites\MonsterC\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterC\Run.xnb</Output>
+      <Time>2012-02-21T12:53:36.6953536+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterD\Die.png</Source>
+      <Name>Sprites\MonsterD\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterD\Die.xnb</Output>
+      <Time>2012-02-21T12:53:36.7573572+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterD\Idle.png</Source>
+      <Name>Sprites\MonsterD\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterD\Idle.xnb</Output>
+      <Time>2012-02-21T12:53:36.7963594+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterD\Run.png</Source>
+      <Name>Sprites\MonsterD\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\MonsterD\Run.xnb</Output>
+      <Time>2012-02-21T12:53:36.8133604+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Celebrate.png</Source>
+      <Name>Sprites\Player\Celebrate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\Player\Celebrate.xnb</Output>
+      <Time>2012-02-21T12:53:36.912366+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Die.png</Source>
+      <Name>Sprites\Player\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\Player\Die.xnb</Output>
+      <Time>2012-02-21T12:53:36.9903705+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Idle.png</Source>
+      <Name>Sprites\Player\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\Player\Idle.xnb</Output>
+      <Time>2012-02-21T12:53:37.0583744+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Jump.png</Source>
+      <Name>Sprites\Player\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\Player\Jump.xnb</Output>
+      <Time>2012-02-21T12:53:37.313389+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Run.png</Source>
+      <Name>Sprites\Player\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\Player\Run.xnb</Output>
+      <Time>2012-02-21T12:53:37.3763926+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Power.png</Source>
+      <Name>Sprites\Power</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\Power.xnb</Output>
+      <Time>2012-02-21T12:53:37.4603974+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Stone.png</Source>
+      <Name>Sprites\Stone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sprites\Stone.xnb</Output>
+      <Time>2012-02-21T12:53:37.5104003+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA0.png</Source>
+      <Name>Tiles\BlockA0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BlockA0.xnb</Output>
+      <Time>2012-03-08T16:45:34.1615609+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA1.png</Source>
+      <Name>Tiles\BlockA1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BlockA1.xnb</Output>
+      <Time>2012-03-08T16:46:15.0949021+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA2.png</Source>
+      <Name>Tiles\BlockA2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BlockA2.xnb</Output>
+      <Time>2012-03-08T16:46:42.3564614+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA3.png</Source>
+      <Name>Tiles\BlockA3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BlockA3.xnb</Output>
+      <Time>2012-03-08T16:48:23.6952576+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA4.png</Source>
+      <Name>Tiles\BlockA4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BlockA4.xnb</Output>
+      <Time>2012-03-08T16:49:11.99102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA5.png</Source>
+      <Name>Tiles\BlockA5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BlockA5.xnb</Output>
+      <Time>2012-03-08T16:48:45.5645085+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA6.png</Source>
+      <Name>Tiles\BlockA6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BlockA6.xnb</Output>
+      <Time>2012-03-08T16:47:59.2928619+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockB0.png</Source>
+      <Name>Tiles\BlockB0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BlockB0.xnb</Output>
+      <Time>2012-02-21T12:53:38.0674321+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockB1.png</Source>
+      <Name>Tiles\BlockB1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\BlockB1.xnb</Output>
+      <Time>2012-02-21T12:53:38.1514369+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Complete.png</Source>
+      <Name>Tiles\Complete</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\Complete.xnb</Output>
+      <Time>2012-02-21T12:53:38.2014398+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Exit.png</Source>
+      <Name>Tiles\Exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\Exit.xnb</Output>
+      <Time>2012-02-21T12:53:38.2344417+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Exit2.png</Source>
+      <Name>Tiles\Exit2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\Exit2.xnb</Output>
+      <Time>2012-02-21T12:53:38.2464423+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Platform.png</Source>
+      <Name>Tiles\Platform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Tiles\Platform.xnb</Output>
+      <Time>2012-02-21T12:53:38.2684436+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\menufont.spritefont</Source>
+      <Name>Fonts\menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Fonts\menufont.xnb</Output>
+      <Time>2012-02-20T17:14:54.228749+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Hud.spritefont</Source>
+      <Name>Fonts\Hud</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Fonts\Hud.xnb</Output>
+      <Time>2012-02-21T12:53:28.0348583+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Door.wav</Source>
+      <Name>Sounds\Door</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sounds\Door.xnb</Output>
+      <Time>2012-03-08T13:35:07.6390012+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Nut.WAV</Source>
+      <Name>Sounds\Nut</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sounds\Nut.xnb</Output>
+      <Time>2012-03-08T14:35:59.1078532+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PlayerKilled.WAV</Source>
+      <Name>Sounds\PlayerKilled</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sounds\PlayerKilled.xnb</Output>
+      <Time>2012-02-21T12:53:35.4692835+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Win.wav</Source>
+      <Name>Sounds\Win</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sounds\Win.xnb</Output>
+      <Time>2012-03-08T13:35:08.4540478+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Killed.WAV</Source>
+      <Name>Sounds\Killed</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sounds\Killed.xnb</Output>
+      <Time>2012-03-06T17:15:38.6041219+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Jump.wav</Source>
+      <Name>Sounds\Jump</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sounds\Jump.xnb</Output>
+      <Time>2012-03-08T13:35:04.4868209+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Music.mp3</Source>
+      <Name>Sounds\Music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sounds\Music.xnb</Output>
+      <Extra>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sounds\Music.wma</Extra>
+      <Time>2012-02-21T12:53:35.337276+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Powerup.wma</Source>
+      <Name>Sounds\Powerup</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\Sounds\Powerup.xnb</Output>
+      <Time>2012-02-21T12:53:35.4912848+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{44459A75-F2CF-4B58-89EA-79154AF5C1AF}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\obj\Windows Phone\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Droggelbecher\Desktop\Ratatöskrs Great Adventure\GameStateManagementSample\bin\Windows Phone\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-01-31T15:27:53.5688757+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
